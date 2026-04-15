@@ -1,0 +1,14 @@
+Log sistema producible PFV
+
+2026-04-15 04:24:46,810 - INFO - Inicio del proceso
+2026-04-15 04:24:46,810 - INFO - Archivo de entrada: data/entrada_ejemplo.csv
+2026-04-15 04:24:46,810 - INFO - Archivo de salida: data/salida/producible_resultado.xlsx
+2026-04-15 04:24:46,815 - INFO - Archivo cargado correctamente. Registros: 781
+2026-04-15 04:24:46,825 - WARNING - Se rellenaron 54 valores vacíos en 'irradiancia_poa' con 0.
+2026-04-15 04:24:46,825 - WARNING - Se interpolaron 59 valores vacíos en 'temp_ambiente'.
+2026-04-15 04:24:46,825 - WARNING - Se interpolaron 46 valores vacíos en 'temp_celda'.
+2026-04-15 04:24:46,825 - WARNING - La columna 'potencia_activa' tiene 47 valores menores a 0.
+2026-04-15 04:24:46,829 - INFO - Cálculo minutal completado
+2026-04-15 04:24:46,841 - INFO - Resumen horario generado. Registros: 14
+2026-04-15 04:24:46,843 - INFO - Resumen diario generado
+2026-04-15 04:24:47,108 - INFO - Archivo exportado correctamente: C:\Users\Alejandro Deanda\Documents\UACH Estudios\7mo CUATRIMESTRE\ADMINISTRACION DEL PROCESO DE SOFTWARE\producible-fv\data\salida\producible_resultado.xlsx
